@@ -1,0 +1,9 @@
+spriteTypes = {
+
+	# Including my custom Icon into the buildings list
+	spriteType = {
+		name = "GFX_buildings_strip"
+		textureFile = "gfx/interface/buildings/building_icon_strip_modified.dds"
+		noOfFrames = 17
+	}
+}
