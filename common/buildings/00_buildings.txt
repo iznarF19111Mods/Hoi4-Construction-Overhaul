@@ -220,4 +220,15 @@ buildings = {
 		value = 10
 		infrastructure_construction_effect = yes
 	}
+
+	double_shift_factory = {
+		base_cost = 36000
+		military_production = 2
+	#	general_production = 2		# Apparently, adding general_production does not work :(
+		max_level = 50
+		shares_slots = no
+		value = 7
+		infrastructure_construction_effect = yes
+		icon_frame = 17
+	}
 }
